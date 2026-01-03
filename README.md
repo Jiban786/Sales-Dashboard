@@ -5,7 +5,6 @@ I made this Retail Store Sales Dashboard in Power BI with sample data of a store
 # Problem Statement
 
 To create a dashboard that provides an overview of sales enabling owner to gain actionable insights.
-Sections in the Report
 
 Report has multiple section's from where you can manage the data, like :
 
